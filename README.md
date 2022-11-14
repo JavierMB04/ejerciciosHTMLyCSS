@@ -1,3 +1,3 @@
 # ejerciciosHTMLyCSS
-##Repositorio de Inés
-Rpositorio de los ejercicios de Marcas
+## Repositorio de Inés
+Repositorio de los ejercicios de Marcas
